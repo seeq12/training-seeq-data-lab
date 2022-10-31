@@ -1,0 +1,10 @@
+.*
+!/.gitignore
+_Job*
+*.log
+*.log.*
+*.pyc
+*.whl
+log.csv
+*/log.csv
+SPy Documentation/
